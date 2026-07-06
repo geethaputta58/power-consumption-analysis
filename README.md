@@ -148,8 +148,3 @@ images/
 - Real-time dashboard using BigQuery
 - Power BI version
 
----
-
-## Author
-
-Ashi
